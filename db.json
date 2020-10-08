@@ -1,0 +1,25 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "name": "pu",
+          "alamat": "Pekanbaru",
+          "umur": 24,
+          "nohp": "092001"
+        },
+        {
+          "id": 2,
+          "name": "al",
+          "alamat": "Riau",
+          "umur": 20,
+          "nohp": "0001"
+        },
+        {
+          "id": 3,
+          "name": "na",
+          "alamat": "Senapelan",
+          "umur": 19,
+          "nohp": "0920"
+        }
+      ]
+}
